@@ -30,7 +30,8 @@ void loop()
   float oxygenData = Oxygen.getOxygenData(COLLECT_NUMBER); 
 
   //kemudian data yang didapatkan berupa float dipisahkan menjadi dua value integer
-  //dari    :  
+  // contohnya
+  //     dari    :  
   //  oxygenData = 20.78
   //menjadi :
   // oxygen_data_1 = 20
